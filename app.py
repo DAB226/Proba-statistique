@@ -21,7 +21,7 @@
   Dependances :
     tkinter (stdlib), matplotlib, numpy
 
-  Auteur  : [Votre nom]
+  Auteurs  : DABIRE Malong Evrard, KINDA Irénée, TRAORE Inoussa
   Version : 1.0.0
 =============================================================================
 """
