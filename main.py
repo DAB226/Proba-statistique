@@ -1,7 +1,7 @@
 """
 =============================================================================
   Simulateur de Coupures d'Electricite - Ouagadougou
-  Projet PFA - Probabilites et Statistiques
+  Projet - Probabilites et Statistiques
 =============================================================================
 
   Point d'entree principal de l'application.
@@ -18,9 +18,9 @@
       app.py           -> Interface graphique Tkinter principale
       utils.py         -> Fonctions utilitaires (export CSV, PDF)
 
-  Auteur  : [Votre nom]
+  Auteurs  : DABIRE Malong Evrard, KINDA Irénée, TRAORE Inoussa
   Version : 1.0.0
-  Date    : 2025
+  Date    : 2026
 =============================================================================
 """
 
