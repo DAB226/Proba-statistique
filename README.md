@@ -1,5 +1,5 @@
 # Simulateur de Coupures Électriques — Ouagadougou
-## Projet PFA — Probabilités et Statistiques
+## Projet — Probabilités et Statistiques
 
 ---
 
@@ -120,4 +120,6 @@ Var[T] = 2λ / μ²
 ---
 
 ## Auteur
-[Votre nom] — PFA Probabilités & Statistiques 2024-2025
+DABIRE Malyong Evrard
+KINDA Irénée
+TRAORE Inoussa
