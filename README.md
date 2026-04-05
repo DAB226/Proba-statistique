@@ -119,7 +119,7 @@ Var[T] = 2λ / μ²
 
 ---
 
-## Auteur
-DABIRE Malyong Evrard
-KINDA Irénée
-TRAORE Inoussa
+## Auteurs
+DABIRE Malyong Evrard,
+KINDA Irénée,
+TRAORE Inoussa,
